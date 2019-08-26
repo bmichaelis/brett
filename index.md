@@ -63,7 +63,6 @@ Greater Salt Lake City Area
 
 *previous positions listed in [my linkedin profile][]*
 
-   <div style="page-break-after: always;"></div>
 ## Skills
 
 Proficient using Jenkins, TravisCI, Docker, AWS, PHP, JavaScript, AngularJS, NodeJS, MySQL, MongoDB, Git and bash scripting for linux system administration.
