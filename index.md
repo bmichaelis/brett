@@ -33,7 +33,7 @@ Greater Salt Lake City Area
 - Recruited, hired and trained development team
   <div style="page-break-after: always;"></div>
 
-### [Mountainland Technology College][], Lehi UT
+### [Mountainland Technical College][], Lehi UT
 
 ##### Instructor - Web Programming & Development - September 2014 to June 2015
 - Developed curriculum
@@ -76,4 +76,4 @@ Emphasis in E-Commerce. Graduated 2005.
   [Unicity International]: http://www.unicity.com
   [my linkedin profile]: https://www.linkedin.com/in/brettmichaelis  
   [Utah Valley University]: http://www.uvu.edu/wds
-  [Mountainland Technology College]: https://mtec.edu/programs/web-programming-development/
+  [Mountainland Technical College]: https://mtec.edu/programs/web-programming-development/
